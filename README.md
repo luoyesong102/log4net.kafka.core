@@ -3,7 +3,7 @@ log4net.Kafka.Common
 
 ## Quick Start
 
-### Step 1: Install log4net.Kafka.Core package
+### Step 1: Install log4net.Kafka.Common package
 
 ```
 Install-Package log4net.Kafka.Common
