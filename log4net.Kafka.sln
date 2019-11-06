@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "log4net.Kafka.Core", "log4net.Kafka.Core\log4net.Kafka.Core.csproj", "{43E70B6F-FC4D-4C43-AA9C-B187B04CD2AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "log4net.Kafka.Common", "log4net.Kafka.Core\log4net.Kafka.Common.csproj", "{43E70B6F-FC4D-4C43-AA9C-B187B04CD2AC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "log4net.Kafka.Core.App", "log4net.Kafka.Core.App\log4net.Kafka.Core.App.csproj", "{7F565F00-2CF5-4F59-B63F-276A042A90DE}"
 EndProject

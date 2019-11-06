@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace log4net.Kafka.Core
+namespace log4net.Kafka.Common
 {
     /// <summary>
     /// log4net KafkaAppender

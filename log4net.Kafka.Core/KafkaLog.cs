@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace log4net.Kafka.Core
+namespace log4net.Kafka.Common
 {
     /// <summary>
     /// 日志模板

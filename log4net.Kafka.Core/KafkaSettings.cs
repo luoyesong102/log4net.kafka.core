@@ -1,4 +1,4 @@
-﻿namespace log4net.Kafka.Core
+﻿namespace log4net.Kafka.Common
 {
     /// <summary>
     /// Kafka 参数配置

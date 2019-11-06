@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\log4net.Kafka.Core\log4net.Kafka.Core.csproj" />
+    <ProjectReference Include="..\log4net.Kafka.Core\log4net.Kafka.Common.csproj" />
   </ItemGroup>
 
   <ItemGroup>

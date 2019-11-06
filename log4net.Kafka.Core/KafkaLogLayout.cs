@@ -5,7 +5,7 @@ using System;
 using System.IO;
 using System.Net;
 
-namespace log4net.Kafka.Core
+namespace log4net.Kafka.Common
 {
     /// <summary>
     /// Kafka日志模板

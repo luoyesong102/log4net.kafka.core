@@ -88,9 +88,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\log4net.Kafka.Core\log4net.Kafka.Core.csproj">
+    <ProjectReference Include="..\log4net.Kafka.Core\log4net.Kafka.Common.csproj">
       <Project>{43e70b6f-fc4d-4c43-aa9c-b187b04cd2ac}</Project>
-      <Name>log4net.Kafka.Core</Name>
+      <Name>log4net.Kafka.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
